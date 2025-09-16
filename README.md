@@ -4,7 +4,7 @@ Um site dedicado ao ator Adam Sandler, reunindo informações sobre sua carreira
 
 ---
 
-##  🌐 link do site do projeto
+##  🌐 Link para acessar o Site:
 
 ```bash
 https://filiple15.github.io/Site-AdamSandler/lamoda/index.html
