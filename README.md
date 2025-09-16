@@ -10,7 +10,7 @@ Um site dedicado ao ator Adam Sandler, reunindo informações sobre sua carreira
 https://filiple15.github.io/Site-AdamSandler/lamoda/index.html
 ```
 <a href="https://filiple15.github.io/Site-AdamSandler/lamoda/index.html" target="_blank">
-  abrir site
+  Abrir site
 </a>
 
 ---
