@@ -43,8 +43,8 @@ O site é responsivo e possui efeitos de paralaxe, carrosséis de imagens e íco
 
 ## 🌟 Tecnologias Utilizadas
 
-- **HTML5** – Estrutura semântica do site.
-- **CSS3** – Estilização, efeitos de paralaxe, cores e tipografia.
+- **HTML** – Estrutura semântica do site.
+- **CSS** – Estilização, efeitos de paralaxe, cores e tipografia.
 - **JavaScript** – Funcionalidades de carrossel e interações.
 - **Font Awesome** – Ícones representativos das seções.
 - **YouTube Embed** – Para exibição de vídeos.
